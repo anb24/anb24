@@ -11,7 +11,7 @@
 
 - :rocket: *Always ready to cooperate*
 
-- ⚡ *Fun fact:* ***Gravity affects time***
+- ⚡ *Fun fact:* ***love tea***
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
