@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Andrey</h1>
 
-<h3 align="center">Frontend developer from Russia <a href="https://www.codewars.com/users/anb24" target="blank"><img align="center" src="https://camo.githubusercontent.com/4daf80f5cc6dd6a5c1d0f0f95f1b8e1815038df7638591d682fcceafeac5839e/68747470733a2f2f6769742e696f2f4a4d643461" alt="anb24" height="50"      width="50" /></a></h3>
+<h3 align="center">Frontend developer from Krasnoyarsk <a href="https://www.codewars.com/users/anb24" target="blank"><img align="center" src="https://camo.githubusercontent.com/4daf80f5cc6dd6a5c1d0f0f95f1b8e1815038df7638591d682fcceafeac5839e/68747470733a2f2f6769742e696f2f4a4d643461" alt="anb24" height="50"      width="50" /></a></h3>
 
 <br>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=anb24&style=plastic &color=blue alt=anb24/> </p>
