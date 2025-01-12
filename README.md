@@ -5,7 +5,7 @@
 <br>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=anb24&style=plastic &color=blue alt=anb24/> </p>
 
-- 📫 *How to reach me:* ***Andrey1593@bk.ru*** or Telegram ***@Anb_124***
+- 📫 *How to reach me:* ***Andrey1593@bk.ru*** or Telegram ***@anb_dev***
 
 - 👨‍💻 *All of my projects are available at* ***[anb24](https://github.com/anb24?tab=repositories)***
 
