@@ -5,7 +5,7 @@
 </picture>
 
 <p>
-  <a href="mailto:Andrey1593@bk.ru"><img align="right" src="assets/email.svg" width="52" height="24" alt="Email ↗"></a>
+  <a href="mailto:anb24dev@gmail.com"><img align="right" src="assets/email.svg" width="52" height="24" alt="Email ↗"></a>
   <a href="https://t.me/anb_dev"><img align="right" src="assets/telegram.svg" width="76" height="24" alt="Telegram ↗"></a>
   <picture><img src="assets/contact-label.svg" width="90" height="24" alt="get in touch"></picture>
 </p>
