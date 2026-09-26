@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1145" role="img" aria-labelledby="title desc">
 <title id="title">Andrey / Full-stack engineer</title>
-<desc id="desc">JavaScript and TypeScript. E-commerce, physical access control, business systems and integrations. Frontend: TypeScript, JavaScript, React, Next.js. Backend: Node.js, NestJS, Express, MongoDB. Tooling: Docker, Webpack, Git, Postman. HTML5, CSS3, Sass, SQL, REST APIs, and Electron.</desc>
+<desc id="desc">JavaScript and TypeScript. E-commerce, physical access control, business systems and integrations. Frontend: HTML5, CSS3, React, Next.js. Backend: Node.js, Express, NestJS, REST APIs. Tooling: Git, Webpack, Docker, Postman. JavaScript, TypeScript, Sass, SQL, MongoDB, and Electron.</desc>
 <style>
 :root{--panel:#f6f8fa;--text:#1f2328;--muted:#59636e;--line:#d1d9e0;--accent:#0969da;}
 @media(prefers-color-scheme:dark){:root{--panel:#161b22;--text:#e6edf3;--muted:#929da9;--line:#30363d;--accent:#85baff;}}
@@ -89,12 +89,12 @@ text { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill:
 <svg x="0" y="746" width="100%" height="76" overflow="visible">
 <svg x="0%" y="0" width="25%" height="76" overflow="visible"><rect x="4.5" y=".5" width="100%" height="75" rx="5" class="card"/>
 <svg x="50%" y="27" width="26" height="26" overflow="visible">
-<use href="#icon-typescript" x="-13" y="-13" width="26" height="26"/></svg>
-<text x="50%" y="61" class="skill" text-anchor="middle">TypeScript</text></svg>
+<use href="#icon-html5" x="-13" y="-13" width="26" height="26"/></svg>
+<text x="50%" y="61" class="skill" text-anchor="middle">HTML5</text></svg>
 <svg x="25%" y="0" width="25%" height="76" overflow="visible"><rect x="4.5" y=".5" width="100%" height="75" rx="5" class="card"/>
 <svg x="50%" y="27" width="26" height="26" overflow="visible">
-<use href="#icon-javascript" x="-13" y="-13" width="26" height="26"/></svg>
-<text x="50%" y="61" class="skill" text-anchor="middle">JavaScript</text></svg>
+<use href="#icon-css3" x="-13" y="-13" width="26" height="26"/></svg>
+<text x="50%" y="61" class="skill" text-anchor="middle">CSS3</text></svg>
 <svg x="50%" y="0" width="25%" height="76" overflow="visible"><rect x="4.5" y=".5" width="100%" height="75" rx="5" class="card"/>
 <svg x="50%" y="27" width="26" height="26" overflow="visible">
 <use href="#icon-react" x="-13" y="-13" width="26" height="26"/></svg>
@@ -113,43 +113,43 @@ text { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill:
 <text x="50%" y="61" class="skill" text-anchor="middle">Node.js</text></svg>
 <svg x="25%" y="0" width="25%" height="76" overflow="visible"><rect x="4.5" y=".5" width="100%" height="75" rx="5" class="card"/>
 <svg x="50%" y="27" width="26" height="26" overflow="visible">
-<use href="#icon-nestjs" x="-13" y="-13" width="26" height="26"/></svg>
-<text x="50%" y="61" class="skill" text-anchor="middle">NestJS</text></svg>
-<svg x="50%" y="0" width="25%" height="76" overflow="visible"><rect x="4.5" y=".5" width="100%" height="75" rx="5" class="card"/>
-<svg x="50%" y="27" width="26" height="26" overflow="visible">
 <rect x="-13" y="-13" width="26" height="26" rx="4" fill="#ffffff"/>
 <use href="#icon-express" x="-13" y="-13" width="26" height="26"/></svg>
 <text x="50%" y="61" class="skill" text-anchor="middle">Express</text></svg>
+<svg x="50%" y="0" width="25%" height="76" overflow="visible"><rect x="4.5" y=".5" width="100%" height="75" rx="5" class="card"/>
+<svg x="50%" y="27" width="26" height="26" overflow="visible">
+<use href="#icon-nestjs" x="-13" y="-13" width="26" height="26"/></svg>
+<text x="50%" y="61" class="skill" text-anchor="middle">NestJS</text></svg>
 <svg x="75%" y="0" width="25%" height="76" overflow="visible"><rect x="4.5" y=".5" width="100%" height="75" rx="5" class="card"/>
 <svg x="50%" y="27" width="26" height="26" overflow="visible">
-<use href="#icon-mongodb" x="-13" y="-13" width="26" height="26"/></svg>
-<text x="50%" y="61" class="skill" text-anchor="middle">MongoDB</text></svg>
+<use href="#icon-api" x="-13" y="-13" width="26" height="26" color="var(--accent)"/></svg>
+<text x="50%" y="61" class="skill" text-anchor="middle">REST APIs</text></svg>
 </svg>
 <text x="0" y="969" class="row-label" >tooling</text>
 <svg x="0" y="980" width="100%" height="76" overflow="visible">
 <svg x="0%" y="0" width="25%" height="76" overflow="visible"><rect x="4.5" y=".5" width="100%" height="75" rx="5" class="card"/>
 <svg x="50%" y="27" width="26" height="26" overflow="visible">
-<use href="#icon-docker" x="-13" y="-13" width="26" height="26"/></svg>
-<text x="50%" y="61" class="skill" text-anchor="middle">Docker</text></svg>
+<use href="#icon-git" x="-13" y="-13" width="26" height="26"/></svg>
+<text x="50%" y="61" class="skill" text-anchor="middle">Git</text></svg>
 <svg x="25%" y="0" width="25%" height="76" overflow="visible"><rect x="4.5" y=".5" width="100%" height="75" rx="5" class="card"/>
 <svg x="50%" y="27" width="26" height="26" overflow="visible">
 <use href="#icon-webpack" x="-13" y="-13" width="26" height="26"/></svg>
 <text x="50%" y="61" class="skill" text-anchor="middle">Webpack</text></svg>
 <svg x="50%" y="0" width="25%" height="76" overflow="visible"><rect x="4.5" y=".5" width="100%" height="75" rx="5" class="card"/>
 <svg x="50%" y="27" width="26" height="26" overflow="visible">
-<use href="#icon-git" x="-13" y="-13" width="26" height="26"/></svg>
-<text x="50%" y="61" class="skill" text-anchor="middle">Git</text></svg>
+<use href="#icon-docker" x="-13" y="-13" width="26" height="26"/></svg>
+<text x="50%" y="61" class="skill" text-anchor="middle">Docker</text></svg>
 <svg x="75%" y="0" width="25%" height="76" overflow="visible"><rect x="4.5" y=".5" width="100%" height="75" rx="5" class="card"/>
 <svg x="50%" y="27" width="26" height="26" overflow="visible">
 <use href="#icon-postman" x="-13" y="-13" width="26" height="26"/></svg>
 <text x="50%" y="61" class="skill" text-anchor="middle">Postman</text></svg>
 </svg>
 <svg x="0" y="1076" width="100%" height="50" overflow="visible">
-<svg x="0%" y="0" width="56" height="22" overflow="visible"><g class="badge" transform="translate(4.5 0)"><use href="#icon-html5" width="17" height="17"/><text x="23" y="13">HTML5</text></g></svg>
-<svg x="50%" y="0" width="50" height="22" overflow="visible"><g class="badge" transform="translate(-18.4 0)"><use href="#icon-css3" width="17" height="17"/><text x="23" y="13">CSS3</text></g></svg>
+<svg x="0%" y="0" width="76" height="22" overflow="visible"><g class="badge" transform="translate(4.5 0)"><use href="#icon-javascript" width="17" height="17"/><text x="23" y="13">JavaScript</text></g></svg>
+<svg x="50%" y="0" width="76" height="22" overflow="visible"><g class="badge" transform="translate(-24.2 0)"><use href="#icon-typescript" width="17" height="17"/><text x="23" y="13">TypeScript</text></g></svg>
 <svg x="100%" y="0" width="46" height="22" overflow="visible"><g class="badge" transform="translate(-50.5 0)"><use href="#icon-sass" width="17" height="17"/><text x="45" y="13" text-anchor="end">Sass</text></g></svg>
 <svg x="0%" y="26" width="44" height="22" overflow="visible"><g class="badge" transform="translate(4.5 0)"><use href="#icon-sql" width="17" height="17"/><text x="23" y="13">SQL</text></g></svg>
-<svg x="50%" y="26" width="76" height="22" overflow="visible"><g class="badge" transform="translate(-45.6 0)"><use href="#icon-api" width="17" height="17"/><text x="23" y="13">REST APIs</text></g></svg>
+<svg x="50%" y="26" width="74" height="22" overflow="visible"><g class="badge" transform="translate(-48.4 0)"><use href="#icon-mongodb" width="17" height="17"/><text x="23" y="13">MongoDB</text></g></svg>
 <svg x="100%" y="26" width="67" height="22" overflow="visible"><g class="badge" transform="translate(-71.5 0)"><use href="#icon-electron" x="3" y="-1.5" width="20" height="20" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><text x="66" y="13" text-anchor="end">Electron</text></g></svg>
 </svg>
 <rect y="1144" width="100%" height="1" class="line"/></svg>
