@@ -155,10 +155,10 @@ text { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill:
 </svg>
 <svg x="15%" y="890" width="85%" height="50" overflow="visible">
 <svg x="0%" y="0" width="56" height="22" overflow="visible"><g class="badge" transform="translate(4.5 0)"><use href="#icon-html5" width="17" height="17"/><text x="23" y="13">HTML5</text></g></svg>
-<svg x="20%" y="0" width="50" height="22" overflow="visible"><g class="badge" transform="translate(-9.1 0)"><use href="#icon-css3" width="17" height="17"/><text x="23" y="13">CSS3</text></g></svg>
-<svg x="40%" y="0" width="46" height="22" overflow="visible"><g class="badge" transform="translate(-28.7 0)"><use href="#icon-sass" width="17" height="17"/><text x="23" y="13">Sass</text></g></svg>
-<svg x="60%" y="0" width="44" height="22" overflow="visible"><g class="badge" transform="translate(-52.3 0)"><use href="#icon-sql" width="17" height="17"/><text x="23" y="13">SQL</text></g></svg>
-<svg x="80%" y="0" width="76" height="22" overflow="visible"><g class="badge" transform="translate(-77.9 0)"><use href="#icon-api" width="17" height="17"/><text x="23" y="13">REST APIs</text></g></svg>
-<svg x="100%" y="0" width="67" height="22" overflow="visible"><g class="badge" transform="translate(-71.5 0)"><use href="#icon-electron" width="17" height="17"/><text x="66" y="13" text-anchor="end">Electron</text></g></svg>
+<svg x="20%" y="0" width="50" height="22" overflow="visible"><g class="badge" transform="translate(-4.8 0)"><use href="#icon-css3" width="17" height="17"/><text x="23" y="13">CSS3</text></g></svg>
+<svg x="40%" y="0" width="46" height="22" overflow="visible"><g class="badge" transform="translate(-23.2 0)"><use href="#icon-sass" width="17" height="17"/><text x="23" y="13">Sass</text></g></svg>
+<svg x="60%" y="0" width="44" height="22" overflow="visible"><g class="badge" transform="translate(-47.6 0)"><use href="#icon-sql" width="17" height="17"/><text x="23" y="13">SQL</text></g></svg>
+<svg x="80%" y="0" width="76" height="22" overflow="visible"><g class="badge" transform="translate(-71.6 0)"><use href="#icon-api" width="17" height="17"/><text x="23" y="13">REST APIs</text></g></svg>
+<svg x="100%" y="0" width="67" height="22" overflow="visible"><g class="badge" transform="translate(-71.5 0)"><use href="#icon-electron" x="3" y="-1.5" width="20" height="20" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><text x="66" y="13" text-anchor="end">Electron</text></g></svg>
 </svg>
 <rect y="934" width="100%" height="1" class="line"/></svg>
